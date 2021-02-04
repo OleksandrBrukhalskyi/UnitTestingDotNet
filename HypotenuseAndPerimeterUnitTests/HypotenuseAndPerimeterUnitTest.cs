@@ -3,7 +3,7 @@ using Microsoft.VisualStudio.TestTools.UnitTesting;
 namespace HypotenuseAndPerimeterUnitTests
 {
     [TestClass]
-    public class UnitTest1
+    public class HypotenuseAndPerimeterUnitTest
     {
         [TestMethod]
         [DataRow(2,3,3.61)]
